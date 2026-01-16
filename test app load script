@@ -8,5 +8,6 @@ ID,name,type,value
 3,C,yellow,60
 4,D,yellow,40
 5,D,violet,121
-
+6,E,violet,121
+7,F,red,17890
 ];
